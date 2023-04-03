@@ -1,2 +1,1 @@
-some text that's kept simple
-somre more text to check for CI workflow
+![workflow](https://github.com/<UserName>/<RepositoryName>/actions/workflows/main.yml/badge.svg)
